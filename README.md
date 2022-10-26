@@ -2,7 +2,10 @@
 Hi I'm Simrenpreet Kaur from School Of Computer Sciences USM. 
 
 My Final Year Project 
-Student Personal Assistance is a platform that can facilitate the scheduling of students wherever and whenever. It has My Study Life, Social Network and Fitness Track and Healthy Eating Subsystems.
+Tittle : Student Personal Assistance
+Subsystem 1 : My Study Life. 
+Subsystem 2 : Social Network. 
+Subsystem 3 : Fitness Track and Healthy Eating. 
 
 MY FYP Subsystem 
 Student Personal Assistance (Subsystem 2: Social Network) 
