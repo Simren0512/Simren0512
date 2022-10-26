@@ -1,5 +1,5 @@
 
-Hi I'm Simrenpreet Kaur from School Of Computer Sciences USM. 
+Hi I'm Simrenpreet Kaur from School Of Computer Sciences USM. :) 
 
 My Final Year Project 
 Tittle : Student Personal Assistance
