@@ -1,4 +1,4 @@
-About Me 
+
 Hi I'm Simrenpreet Kaur from School Of Computer Sciences USM. 
 
 My Final Year Project 
