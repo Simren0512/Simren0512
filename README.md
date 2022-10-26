@@ -1,11 +1,11 @@
 
 Hi I'm Simrenpreet Kaur from School Of Computer Sciences USM. :) 
 
-My Final Year Project 
-Tittle : Student Personal Assistance
-Subsystem 1 : My Study Life. 
-Subsystem 2 : Social Network. 
-Subsystem 3 : Fitness Track and Healthy Eating. 
+  My Final Year Project 
+  Title : Student Personal Assistance
+  Subsystem 1 : My Study Life. 
+  Subsystem 2 : Social Network. 
+  Subsystem 3 : Fitness Track and Healthy Eating. 
 
 MY FYP Subsystem 
 Student Personal Assistance (Subsystem 2: Social Network) 
